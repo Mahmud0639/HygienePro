@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/morer"
+        android:title=""
+        android:icon="@drawable/ic_more"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/sendMessenger"
+                android:title="@string/send_in_messenger"
+                android:icon="@drawable/ic_share"
+                app:showAsAction="ifRoom"/>
+            <item android:id="@+id/copyLink"
+                android:title="@string/copy_link"
+                android:icon="@drawable/ic_copy"
+                app:showAsAction="ifRoom"/>
+            <item android:id="@+id/openInChrome"
+                android:title="@string/open_in_chrome"
+                android:icon="@drawable/ic_open_in_chrome_icon"
+                app:showAsAction="ifRoom"/>
+
+  <item android:id="@+id/contact"
+                android:title="@string/contact"
+                android:icon="@drawable/ic_person_contact"
+                app:showAsAction="ifRoom"/>
+
+
+        </menu>
+
+
+    </item>
+</menu>

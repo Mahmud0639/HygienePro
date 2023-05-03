@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HygienePro</string>
+
+    <string name="send_in_messenger">Send in Messenger</string>
+    <string name="open_in_chrome">Open in Chrome</string>
+    <string name="share">Share</string>
+    <string name="rate_app">Rate App</string>
+    <string name="developer">Developer</string>
+    <string name="contact">Contact</string>
+    <string name="mahamudulmiu17_gmail_com">mahamudulmiu17@gmail.com</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="connect_to_internet">Connect to the internet and try again</string>
+    <string name="please_try">Retry</string>
+    <string name="copy_link">Copy link</string>
+</resources>
